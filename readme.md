@@ -11,6 +11,9 @@ chopsticks. If philosophers follow this approach they can unfortunately, enter
 a deadlock: each philosopher can grab the chopstick on the left but then be 
 stuck waiting for the philosopher on the right to release the chopstick she holds.
 
+Reference: Operating Systems: Principles and Practice (Book by Thomas Anderson 
+& Michael Dahlin)
+
 ### What classes do I need to run ?
 
 There are two versions of the program available, one
